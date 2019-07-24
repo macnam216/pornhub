@@ -1,0 +1,57 @@
+    .banner {
+        height: 546px;
+        display: flex;
+        width: 1240px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    .banner ._1c {
+        width: 244px;
+    }
+    
+    .banner ._1c .mothang {
+        display: flex;
+        width: 242px;
+        height: 32.94px;
+    }
+    
+    .banner ._1c .mothang .trai {
+        width: 39px;
+        height: 18px;
+    }
+    
+    .banner ._1c .mothang .phai {
+        width: 203px;
+        height: 14.4px;
+        font-size: 13px;
+        margin: auto;
+    }
+    
+    .banner ._2c {
+        width: 584px;
+    }
+    
+    .banner ._2c .tren {
+        height: 365px;
+    }
+    
+    .banner ._2c .duoi {
+        height: 181px;
+        display: flex;
+    }
+    
+    .banner ._2c .duoi .nuaduoi {
+        width: 292px;
+    }
+    
+    .banner ._3c {
+        width: 412 px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .banner ._3c .saudiv {
+        width: 206px;
+        height: 181px;
+    }
