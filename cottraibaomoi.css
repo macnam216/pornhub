@@ -1,0 +1,71 @@
+.cottrai {
+    font-family: sans-serif;
+    width: 610px;
+    margin: 3px 0px 15px;
+}
+
+.cottrai .tren {
+    height: 460.2px;
+}
+
+.cottrai .tren .to img {
+    width: 610px;
+    height: 342.46px;
+}
+
+.cottrai .tren .to .chu {
+    color: #222222;
+    text-decoration: none;
+    font-size: 32px;
+}
+
+.cottrai .tren .to .chu:hover {
+    color: #2FA1B3;
+}
+
+.cottrai .tren .nho {
+    height: 20px;
+}
+
+.cottrai .tren .nho .link {
+    font-size: 13px;
+    color: #999999;
+    text-decoration: none;
+}
+
+.cottrai .tren .nho .link:hover {
+    color: #2FA1B3;
+}
+
+.cottrai .tren .nho span {
+    font-size: 13px;
+    color: #999999;
+}
+
+.cottrai .duoi {
+    display: flex;
+    width: 100%;
+    height: 280.4px;
+    margin: 0px 0px 20px;
+    padding: 0px 0px 20px;
+    justify-content: space-between;
+}
+
+.cottrai .duoi .cot {
+    width: 193px;
+    height: 208.2px;
+}
+
+.cottrai .duoi .cot a {
+    text-decoration: none;
+    color: #222222;
+}
+
+.cottrai .duoi .cot a:hover {
+    color: #2FA1B3;
+}
+
+.cottrai .duoi .cot a img {
+    width: 193px;
+    height: 128.34px;
+}
