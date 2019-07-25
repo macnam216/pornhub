@@ -1,0 +1,55 @@
+ .benduoi {
+     display: inline-flex;
+     margin-right: auto;
+     margin-left: auto;
+     width: 1000px;
+     height: 745.6px;
+     justify-content: space-between;
+ }
+ 
+ .smallnewsblock {
+     display: flex;
+     width: 330px;
+     margin-bottom: 12px;
+     margin-left: auto;
+     margin-top: auto;
+ }
+ 
+ .smallnewsblock .left {
+     width: 60 px;
+     height: 60px;
+     margin-right: 10px;
+ }
+ 
+ .smallnewsblock .right {
+     width: 260 px;
+     height: 49.6px;
+ }
+ 
+ img {
+     width: 60px;
+     height: 60px;
+ }
+ 
+ .smallnewsblock .right a.a1 {
+     text-decoration: none;
+     color: #333333;
+     font-size: 17px;
+ }
+ 
+ .smallnewsblock .right a.a2 {
+     text-decoration: none;
+     color: #999999;
+     font-size: 13px;
+ }
+ 
+ .smallnewsblock .right span.minutes {
+     color: #999999;
+     font-size: 13px;
+ }
+ 
+ .smallnewsblock .right a.a3 {
+     text-decoration: none;
+     color: #999999;
+     font-size: 13px;
+ }
